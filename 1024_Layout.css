@@ -1,0 +1,28 @@
+#wrap{
+    width: 80%;
+    margin:0 auto;
+}
+
+aside.left{
+    width: 30%;
+    margin-right: 2%;    
+}
+
+section{
+  width: 62%;
+margin-left: 2%;
+}
+
+aside.right{
+    float:left;
+    margin-left: 0%;
+}
+
+footer ul li{    
+    
+     padding: 1% 5%;
+}
+
+footer ul li#f1,li#f2,li#f3,li#f4{          
+    padding: 0% 5%;
+}

@@ -1,0 +1,30 @@
+
+
+header nav ul li{
+    display: block;
+}
+
+main aside.left{
+    width:100%;
+    margin:-1%;
+    float: none;
+        
+}
+
+main section{
+    width: 100%;       
+    margin: 0;
+}
+
+main aside.right{
+    display: none;
+}
+
+footer ul li{
+    display: block;
+    text-align: left;
+ 
+}
+
+
+	
